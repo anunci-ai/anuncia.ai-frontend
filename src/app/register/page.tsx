@@ -145,7 +145,7 @@ export default function RegisterPage() {
 
       {/* Footer Link */}
       <p className="mt-8 text-sm text-gray-400">
-        Already have an account?{" "}
+        Já tem uma conta? Login{" "}
         <Link href="/login" className="text-white font-semibold hover:underline">
           Sign in
         </Link>
